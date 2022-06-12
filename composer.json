@@ -12,8 +12,7 @@
   "require": {
     "php": ">=8.0",
     "ramsey/uuid": "^4.0",
-    "the-seed-sdk/shared": "^0.1",
-    "othercode/complex-heart": "dev-develop",
+    "the-seed-sdk/shared": "dev-main",
     "psr/container": "^1.0",
     "pimple/pimple": "^3.0"
   },

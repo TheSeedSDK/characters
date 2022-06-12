@@ -2,17 +2,15 @@
 
 declare(strict_types=1);
 
-namespace TheSeed\Characters;
+namespace TheSeed\Characters\Concepts;
 
-use OtherCode\ComplexHeart\Domain\ValueObjects\DateTimeValue;
-use TheSeed\Characters\Concepts\Sex;
-use TheSeed\Characters\Concepts\Name;
+use ComplexHeart\Domain\Model\ValueObjects\DateTimeValue;
 
 /**
  * Class Concept
  *
  * @author Unay Santisteban <usantisteban@othercode.es>
- * @package TheSeed\Characters
+ * @package TheSeed\Characters\Concepts
  */
 final class Concept
 {

@@ -10,7 +10,7 @@ use OtherCode\ComplexHeart\Domain\ValueObjects\EnumValue;
  * Class Sex
  *
  * @author Unay Santisteban <usantisteban@othercode.es>
- * @package TheSeed\Characters\Concept
+ * @package TheSeed\Characters\Concepts
  */
 final class Sex extends EnumValue
 {

@@ -10,7 +10,7 @@ use InvalidArgumentException;
  * Class Name
  *
  * @author Unay Santisteban <usantisteban@othercode.es>
- * @package TheSeed\Characters\Concept
+ * @package TheSeed\Characters\Concepts
  */
 final class Name
 {

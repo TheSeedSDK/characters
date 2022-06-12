@@ -4,13 +4,13 @@ declare(strict_types=1);
 
 namespace TheSeed\Characters\Concepts\Genotypes;
 
-use TheSeed\Characters\Genotype;
+use TheSeed\Characters\Concepts\Genotype;
 
 /**
  * Class Beast
  *
  * @author Unay Santisteban <usantisteban@othercode.es>
- * @package TheSeed\Characters\Concept\Genotypes
+ * @package TheSeed\Characters\Concepts\Genotypes
  */
 final class Beast extends Genotype
 {

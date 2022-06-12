@@ -4,13 +4,13 @@ declare(strict_types=1);
 
 namespace TheSeed\Characters\Concepts\Genotypes;
 
-use TheSeed\Characters\Genotype;
+use TheSeed\Characters\Concepts\Genotype;
 
 /**
  * Class Composed
  *
  * @author Unay Santisteban <usantisteban@othercode.es>
- * @package TheSeed\Characters\Concept\Genotypes
+ * @package TheSeed\Characters\Concepts\Genotypes
  */
 final class Composed extends Genotype
 {
@@ -30,4 +30,6 @@ final class Composed extends Genotype
     {
         $this->genotypes = $genotypes;
     }
+
+
 }

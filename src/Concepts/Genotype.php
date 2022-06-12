@@ -1,11 +1,12 @@
 <?php
 
-namespace TheSeed\Characters;
+namespace TheSeed\Characters\Concepts;
 
 /**
  * Class Genotype
  *
- * @package TheSeed\Characters
+ * @author Unay Santisteban <usantisteban@othercode.es>
+ * @package TheSeed\Characters\Concepts
  */
 abstract class Genotype
 {
